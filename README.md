@@ -1,4 +1,7 @@
 # Obsidian AU Vault
+
+(THIS IS DRAFT MATERIAL - the Conference is in mid July 2022, so I'm preparing this "live")
+
 This vault is intended as a public Github repo for for content related to the West Virginia State Technology Conference 2022 presentation on "Note-taking in Obsidian"[^1].
 
 "gAUdlf" means:
