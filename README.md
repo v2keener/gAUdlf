@@ -1,5 +1,5 @@
 # Obsidian AU Vault
-This vault is intended as a public Github repo for for content related to the West Virginia State Technology Conference 2022 presentation on "Note-taking in Obsidian", presented on behalf of West Virginia Network (WVNET), the host of the conference, by Gustavo Keener, a Banner DBA for WVNET.
+This vault is intended as a public Github repo for for content related to the West Virginia State Technology Conference 2022 presentation on "Note-taking in Obsidian"[^1].
 
 "gAUdlf" means:
 - 'g' for "Gustavo"
@@ -21,3 +21,5 @@ Vim is my favorite text editor at the command line. This applies to bash and Pow
 Last, and because I love customizing the product as I take notes and/or find something visually distracting, I'm including a project I call "Obsidian Overlay", which is a set of SCSS files rendered to `*.css` that is then copied into a given `.obsidian\snippets\` folder to be used as CSS Snippets in Obsidian. 
 
 Overlay is powered by PowerShell, but a Bash script could also easily do the same thing. All of the `deploySASSY.ps1` script is powered by the `sass` interpreter, which listens for file changes, and then updates CSS output files for every/any SCSS file that's updated. There are many settings, all of which should be labelled according to what they *should* do. Whether a given Overlay snippet works is a matter of which theme is being used. All of the overlays I use currently apply to the Default Obsidian theme, and can also work with many other themes. Some options will break other themes. If in doubt, disable all Overlay snippets before switching to view Obsidian with a different theme.
+
+[^1]: "Note-taking in Obsidian" was presented on behalf of West Virginia Network (WVNET), the company that hosted the conference. Gustavo Keener, a Banner DBA for WVNET, is the author of this content.
