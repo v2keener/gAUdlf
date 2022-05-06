@@ -1,0 +1,1 @@
+The Zettelkasten system is very interesting. I use the 'zettel' folder for moments I want to capture, or things that I don't know where to put them yet.
