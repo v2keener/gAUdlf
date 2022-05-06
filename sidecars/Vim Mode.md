@@ -1,0 +1,3 @@
+# Vim Mode
+
+Vim is my favorite text editor at the command line. This applies to bash and Powershell. For the most part, `vim` is easy for me to use, so I always apply that mode to Obsidian. It shouldn't impact how one uses Obsidian to take notes, but in case the presentation included some unexplained text editing maneuvers&mdash;so to speak, Vim Mode might explain them. Vim Mode for Obsidian is recommended if you are familiar with and like operating with a command-line text editor like `vim` or `vi`.
