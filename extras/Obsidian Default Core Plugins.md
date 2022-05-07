@@ -45,6 +45,7 @@ First, turn off "Safe mode" under "Community plugins". These are plugins I find 
 - Linter
 - Markdown Table Editor
 - Music notation
+  - I think I installed this custom #edit
 - Natural Language Dates
 - Note Refactor
 - Obsidian Git
