@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "0236832ad8c8ad30",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e60bba28a733d8e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "sidecars/AU Plugins.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62c5cff614ab514b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d2de288f092feff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9513c4204ff15b65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "36b28e4056cc4a4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b8add6581660943",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "right": {
+    "id": "cd83fe99c3ed07ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a3bca4fce9e32f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10eb8b42fd8b5ac7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sidecars/AU Plugins.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a7fb592fb8f53f2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7bb94a86f555ace",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5e60bba28a733d8e",
+  "lastOpenFiles": [
+    "sidecars/AU Plugins.md",
+    "extras/Obsidian Default Core Plugins.md",
+    "daily/2022 05 07 Saturday.md",
+    "daily/2022 05 06 Friday.md"
+  ]
+}
