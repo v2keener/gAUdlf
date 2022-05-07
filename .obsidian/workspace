@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sidecars/AU Plugins.md",
+            "file": "daily/2022 05 07 Saturday.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sidecars/AU Plugins.md",
+                "file": "daily/2022 05 07 Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +113,9 @@
   },
   "active": "5e60bba28a733d8e",
   "lastOpenFiles": [
+    "daily/2022 05 07 Saturday.md",
     "sidecars/AU Plugins.md",
     "extras/Obsidian Default Core Plugins.md",
-    "daily/2022 05 07 Saturday.md",
     "daily/2022 05 06 Friday.md"
   ]
 }
