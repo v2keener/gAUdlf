@@ -1,0 +1,1 @@
+A Daily Note is a type of note. Typically, it's for notes taken during a 24-hour period. There's a Core Plugin
