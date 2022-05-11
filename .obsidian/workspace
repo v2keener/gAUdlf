@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Getting Things Done.md",
+            "file": "daily/2022 05 11 Wednesday.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Things Done.md",
+                "file": "daily/2022 05 11 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +105,8 @@
   },
   "active": "de80591eea7b4139",
   "lastOpenFiles": [
-    "Getting Things Done.md",
     "daily/2022 05 11 Wednesday.md",
+    "Getting Things Done.md",
     "Deep Work.md",
     "daily/2022 05 09 Monday.md",
     "extras/Obsidian Default Core Plugins.md",
