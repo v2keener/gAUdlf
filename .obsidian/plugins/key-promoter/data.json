@@ -5,8 +5,15 @@
   "notificationTimeout": 5,
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
-  "mouseStatistics": {},
+  "mouseStatistics": {
+    "file-explorer:new-file": 1,
+    "note-refactor-obsidian:app:extract-selection-first-line": 1,
+    "note-refactor-obsidian:app:extract-selection-content-only": 1,
+    "note-refactor-obsidian:app:extract-selection-autogenerate-name": 1,
+    "templater-obsidian:create-new-note-from-template": 1
+  },
   "keyboardStatistics": {
-    "app:open-settings": 1
+    "app:open-settings": 1,
+    "app:go-back": 1
   }
 }

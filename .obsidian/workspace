@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022 05 09 Monday.md",
+            "file": "Getting Things Done.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022 05 09 Monday.md",
+                "file": "Getting Things Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +78,22 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "a3b7ddc14f05465a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d968fa4e62da6e9",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
             }
           }
         ]
@@ -89,15 +105,15 @@
   },
   "active": "de80591eea7b4139",
   "lastOpenFiles": [
+    "Getting Things Done.md",
+    "daily/2022 05 11 Wednesday.md",
+    "Deep Work.md",
     "daily/2022 05 09 Monday.md",
     "extras/Obsidian Default Core Plugins.md",
     "sidecars/Daily Note.md",
     "README.md",
     "sidecars/README.md",
     "extras/README.md",
-    "study/README.md",
-    "zettel/README.md",
-    "daily/2022 05 06 Friday.md",
-    "sidecars/Overlay Project.md"
+    "study/README.md"
   ]
 }
