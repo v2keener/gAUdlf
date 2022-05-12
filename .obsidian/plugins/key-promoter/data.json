@@ -1,19 +1,28 @@
 {
-  "showUnassigned": true,
+  "showUnassigned": false,
   "showAssigned": true,
   "threshold": 0,
   "notificationTimeout": 5,
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
-    "file-explorer:new-file": 1,
-    "note-refactor-obsidian:app:extract-selection-first-line": 1,
-    "note-refactor-obsidian:app:extract-selection-content-only": 1,
-    "note-refactor-obsidian:app:extract-selection-autogenerate-name": 1,
-    "templater-obsidian:create-new-note-from-template": 1
+    "file-explorer:new-file": 7,
+    "note-refactor-obsidian:app:extract-selection-first-line": 7,
+    "note-refactor-obsidian:app:extract-selection-content-only": 7,
+    "note-refactor-obsidian:app:extract-selection-autogenerate-name": 7,
+    "templater-obsidian:create-new-note-from-template": 7,
+    "editor:rename-heading": 1,
+    "workspace:copy-path": 1,
+    "workspace:copy-url": 1,
+    "hotkeysplus-obsidian:duplicate-lines-down": 1,
+    "hotkeysplus-obsidian:duplicate-lines-up": 1
   },
   "keyboardStatistics": {
-    "app:open-settings": 1,
-    "app:go-back": 1
+    "app:open-settings": 7,
+    "app:go-back": 4,
+    "app:go-forward": 3,
+    "templater-obsidian:insert-templater": 2,
+    "editor:insert-link": 1,
+    "editor:toggle-checklist-status": 1
   }
 }

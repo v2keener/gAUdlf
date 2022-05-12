@@ -1,0 +1,1 @@
+aliases: <% $foo = tp.system.prompt("Alias(es) for this document? (comma-delimited - hit ENTER if none needed)", "") %>

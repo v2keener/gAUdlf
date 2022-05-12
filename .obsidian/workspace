@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022 05 11 Wednesday.md",
+            "file": "daily/2022 05 12 Thursday.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022 05 11 Wednesday.md",
+                "file": "daily/2022 05 12 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "de80591eea7b4139",
   "lastOpenFiles": [
+    "daily/2022 05 12 Thursday.md",
+    "test daily note template.md",
+    "_templates/x example_prompt.md",
+    "_templates/default.md",
+    "_templates/z header.md",
+    "_templates/daily.md",
+    "_templates/z daily_header.md",
     "daily/2022 05 11 Wednesday.md",
     "Getting Things Done.md",
-    "Deep Work.md",
-    "daily/2022 05 09 Monday.md",
-    "extras/Obsidian Default Core Plugins.md",
-    "sidecars/Daily Note.md",
-    "README.md",
-    "sidecars/README.md",
-    "extras/README.md",
-    "study/README.md"
+    "Deep Work.md"
   ]
 }
