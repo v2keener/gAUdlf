@@ -18,11 +18,14 @@
     "hotkeysplus-obsidian:duplicate-lines-up": 2
   },
   "keyboardStatistics": {
-    "app:open-settings": 7,
+    "app:open-settings": 9,
     "app:go-back": 6,
     "app:go-forward": 3,
     "templater-obsidian:insert-templater": 2,
     "editor:insert-link": 1,
-    "editor:toggle-checklist-status": 1
+    "editor:toggle-checklist-status": 1,
+    "command-palette:open": 1,
+    "file-explorer:move-file": 3,
+    "editor:toggle-highlight": 3
   }
 }
