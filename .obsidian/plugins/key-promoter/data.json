@@ -12,14 +12,14 @@
     "note-refactor-obsidian:app:extract-selection-autogenerate-name": 7,
     "templater-obsidian:create-new-note-from-template": 7,
     "editor:rename-heading": 1,
-    "workspace:copy-path": 1,
-    "workspace:copy-url": 1,
-    "hotkeysplus-obsidian:duplicate-lines-down": 1,
-    "hotkeysplus-obsidian:duplicate-lines-up": 1
+    "workspace:copy-path": 2,
+    "workspace:copy-url": 2,
+    "hotkeysplus-obsidian:duplicate-lines-down": 2,
+    "hotkeysplus-obsidian:duplicate-lines-up": 2
   },
   "keyboardStatistics": {
     "app:open-settings": 7,
-    "app:go-back": 4,
+    "app:go-back": 6,
     "app:go-forward": 3,
     "templater-obsidian:insert-templater": 2,
     "editor:insert-link": 1,
