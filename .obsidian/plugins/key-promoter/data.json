@@ -19,20 +19,30 @@
     "table-editor-obsidian:delete-column": 1,
     "table-editor-obsidian:delete-row": 1,
     "app:delete-file": 1,
-    "editor:delete-paragraph": 1
+    "editor:delete-paragraph": 1,
+    "workspace:undo-close-pane": 2,
+    "workspace:close": 2,
+    "workspace:close-others": 2,
+    "obsidian-linter:lint-all-files": 1,
+    "app:open-vault": 1
   },
   "keyboardStatistics": {
-    "app:open-settings": 17,
+    "app:open-settings": 24,
     "app:go-back": 6,
     "app:go-forward": 3,
     "templater-obsidian:insert-templater": 2,
-    "editor:insert-link": 2,
+    "editor:insert-link": 3,
     "editor:toggle-checklist-status": 1,
-    "command-palette:open": 1,
+    "command-palette:open": 3,
     "file-explorer:move-file": 6,
-    "editor:toggle-highlight": 3,
+    "editor:toggle-highlight": 4,
     "app:toggle-right-sidebar": 2,
-    "app:toggle-left-sidebar": 2,
-    "daily-notes": 2
+    "app:toggle-left-sidebar": 4,
+    "daily-notes": 6,
+    "editor:toggle-italics": 2,
+    "editor:toggle-bold": 1,
+    "markdown:toggle-preview": 8,
+    "editor:open-search": 1,
+    "global-search:open": 1
   }
 }

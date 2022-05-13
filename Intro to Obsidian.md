@@ -14,7 +14,7 @@ So the purpose of Obsidian is what you make it, but it's designed around end-use
 
 ## Learning Markdown
 
-For the most part, one may use Obsidian.md without knowing the Markdown language. The language itself is a way to typeset, footnote, title, and section documents quickly and easily without a word processor. Obsidian.md supports all the typical keyboard shortcuts for editing text. 
+For the most part, one may use Obsidian.md without knowing the Markdown language. The language itself is a way to typeset, footnote, title, and section documents quickly and easily without a word processor. Obsidian.md supports all the typical keyboard shortcuts for editing text (like copy-and-paste, **bold**, *italics*, etc.).
 
 
 [^1]: The mobile app typically has less functionality than Obsidian on a desktop OS.

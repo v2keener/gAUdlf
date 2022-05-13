@@ -2,7 +2,7 @@
 
 (THIS IS DRAFT MATERIAL - the Conference is in mid July 2022, so I'm preparing this "live")
 
-An Obsidian "vault", as of 20220506, is a folder or (synonym[^ish]) directory on a computer.
+An Obsidian "vault" is a folder or directory[^ish] on a computer.
 
 This vault is intended as a public Github repo for for content related to the West Virginia State Technology Conference 2022 presentation on "Note-taking in Obsidian"[^1].
 
@@ -14,7 +14,7 @@ This vault is intended as a public Github repo for for content related to the We
 ## A Golden Vault 
 ..."Golden Vault" [^abc]
 
-This Github repository is intended as a "golden" Obsidian vault. One can use this or the 'template' version of this vault to have some pre-made things I find handy in my primary, private vault for note-taking.
+This Github repository is intended as a "golden" Obsidian vault. One can use this or the 'template' version of this vault to have some pre-made things I find handy in my primary, private vault for note-taking. ( #2ba-footnote The [template vault](https://github.com/v2keener/gAUdlf-template) should be populated by the end of June 2022.)
 
 For instance, I've chosen some plugins I find handy to incorporate as submodules. I've also included the `.obsidian` folder, which has the `*.json` files, CSS, and other support files.
 

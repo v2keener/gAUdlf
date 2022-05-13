@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intro to Obsidian.md",
+            "file": "daily/2022-05-13 Friday.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "golden vault",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fcc05c6b614a82aa",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to Obsidian.md",
+                "file": "daily/2022-05-13 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +107,15 @@
   },
   "active": "de80591eea7b4139",
   "lastOpenFiles": [
-    "Intro to Obsidian.md",
     "daily/2022-05-13 Friday.md",
+    "README.md",
+    "study/Obsidian -Home.md",
+    "Keyboard Shortcuts - Home.md",
+    "Intro to Obsidian.md",
     "study/Books - Home.md",
     "study/books/The Expanse.md",
-    "study/Obsidian -Home.md",
     "sidecars/Using only one vault.md",
     "daily/2022-05-13 Friday orig.md",
-    "extras/AU Plugins.md",
-    "extras/Obsidian Default Core Plugins.md",
-    "extras/README.md"
+    "extras/AU Plugins.md"
   ]
 }
