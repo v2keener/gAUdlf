@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "extras/Obsidian Default Core Plugins.md",
             "mode": "source",
             "source": false
           }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fcc05c6b614a82aa",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "extras/Obsidian Default Core Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +105,8 @@
   },
   "active": "de80591eea7b4139",
   "lastOpenFiles": [
+    "extras/Obsidian Default Core Plugins.md",
+    "extras/AU Plugins.md",
     "README.md",
     "daily/2022-05-13 Friday.md",
     "study/Obsidian -Home.md",
@@ -114,8 +114,6 @@
     "Intro to Obsidian.md",
     "study/Books - Home.md",
     "study/books/The Expanse.md",
-    "sidecars/Using only one vault.md",
-    "daily/2022-05-13 Friday orig.md",
-    "extras/AU Plugins.md"
+    "sidecars/Using only one vault.md"
   ]
 }
