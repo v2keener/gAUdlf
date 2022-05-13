@@ -39,9 +39,9 @@
     "app:toggle-right-sidebar": 2,
     "app:toggle-left-sidebar": 4,
     "daily-notes": 6,
-    "editor:toggle-italics": 2,
+    "editor:toggle-italics": 3,
     "editor:toggle-bold": 1,
-    "markdown:toggle-preview": 8,
+    "markdown:toggle-preview": 10,
     "editor:open-search": 1,
     "global-search:open": 1
   }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-05-13 Friday.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-05-13 Friday.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "de80591eea7b4139",
   "lastOpenFiles": [
-    "daily/2022-05-13 Friday.md",
     "README.md",
+    "daily/2022-05-13 Friday.md",
     "study/Obsidian -Home.md",
     "Keyboard Shortcuts - Home.md",
     "Intro to Obsidian.md",
