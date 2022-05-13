@@ -26,7 +26,7 @@
     "app:go-back": 6,
     "app:go-forward": 3,
     "templater-obsidian:insert-templater": 2,
-    "editor:insert-link": 1,
+    "editor:insert-link": 2,
     "editor:toggle-checklist-status": 1,
     "command-palette:open": 1,
     "file-explorer:move-file": 6,

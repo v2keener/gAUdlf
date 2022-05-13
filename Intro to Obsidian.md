@@ -1,6 +1,6 @@
 # Intro to Obsidian
 
-The Obsidian note-taking application, offered by https://obsidian.md/ as a Windows, OSX, Linux, and mobile iPhone and Android app[^1]. There are many other things named "Obsidian", including an amazing game production company, so to separate Obsidian from other same-named things, I write "Obsidian.md" when I mean "The open source note-taking application Obsidian".
+The best resource for beginnign with Obsidian is https://help.obsidian.md/. That said, the Obsidian note-taking application, offered by https://obsidian.md/ as a Windows, OSX, Linux, and mobile iPhone and Android app[^1]. There are many other things named "Obsidian", including an amazing game production company. To separate Obsidian from other same-named things when doing a web search, I write "Obsidian.md" (e.g. "[obsidian.md best practices](https://www.google.com/search?q=obsidian.md+best+practices)").
 
 ## Purpose
 
