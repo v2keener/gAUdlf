@@ -1,0 +1,3 @@
+Taking notes in Obsidian should be easy and I think it is. My philosophy is to use one and only one vault for my private thoughts and daily notes. Other vaults are supplemental to my primary vault, meaning that if I can't get to my personal vault for some reason, I still have a place to put stuff on my computers or mobile devices.
+
+For mobile devices, I use Working Copy (a rather expensive (**worth it**) iPhone app) to sync what I write with #app/Git.
