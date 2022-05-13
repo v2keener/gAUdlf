@@ -11,14 +11,18 @@
     "note-refactor-obsidian:app:extract-selection-content-only": 7,
     "note-refactor-obsidian:app:extract-selection-autogenerate-name": 7,
     "templater-obsidian:create-new-note-from-template": 7,
-    "editor:rename-heading": 1,
+    "editor:rename-heading": 2,
     "workspace:copy-path": 2,
     "workspace:copy-url": 2,
     "hotkeysplus-obsidian:duplicate-lines-down": 2,
-    "hotkeysplus-obsidian:duplicate-lines-up": 2
+    "hotkeysplus-obsidian:duplicate-lines-up": 2,
+    "table-editor-obsidian:delete-column": 1,
+    "table-editor-obsidian:delete-row": 1,
+    "app:delete-file": 1,
+    "editor:delete-paragraph": 1
   },
   "keyboardStatistics": {
-    "app:open-settings": 9,
+    "app:open-settings": 17,
     "app:go-back": 6,
     "app:go-forward": 3,
     "templater-obsidian:insert-templater": 2,
@@ -26,6 +30,9 @@
     "editor:toggle-checklist-status": 1,
     "command-palette:open": 1,
     "file-explorer:move-file": 3,
-    "editor:toggle-highlight": 3
+    "editor:toggle-highlight": 3,
+    "app:toggle-right-sidebar": 2,
+    "app:toggle-left-sidebar": 2,
+    "daily-notes": 2
   }
 }

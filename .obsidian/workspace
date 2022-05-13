@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "extras/AU Plugins.md",
+            "file": "daily/2022-05-13 Friday.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extras/AU Plugins.md",
+                "file": "daily/2022-05-13 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "de80591eea7b4139",
   "lastOpenFiles": [
+    "daily/2022-05-13 Friday.md",
+    "daily/2022-05-13 Friday orig.md",
     "extras/AU Plugins.md",
     "extras/Obsidian Default Core Plugins.md",
     "extras/README.md",
@@ -112,8 +114,6 @@
     "sidecars/Vim Mode.md",
     "sidecars/testing/test daily note template.md",
     "sidecars/Overlay Project.md",
-    "sidecars/Daily Note.md",
-    "study/README.md",
-    "Intro to Obsidian.md"
+    "sidecars/Daily Note.md"
   ]
 }
