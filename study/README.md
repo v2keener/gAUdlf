@@ -1,1 +1,1 @@
-This is where I put stuff I'm actively studying. There are a lot of things I am studying, but for now, this is mostly empty.
+This is where I put stuff I'm actively studying. There are a lot of things I am studying, and keeping things tidy is a non-trivial issue in my personal vault.

@@ -8,7 +8,7 @@ These are the plugins I like.
 
 ### AU Recommended Pluggins
 
-The recommendation is that I like them. Your mileage may vary.
+The recommendation is that I like them. Some of these plugins go really well together, like Checklist and Reminder(s), then there's Advanced Tables and Markdown Table Editor. Your mileage may vary on what's useful or how it works for you, and that's good.
 
 ![[Obsidian Default Core Plugins#AU Community Plugins]]
 
@@ -27,9 +27,3 @@ The recommendation is that I like them. Your mileage may vary.
 - For each plugin, I click the plugin name, left pane, then click "Install" on the right pane. 
   - If I wish, I may click "Enable" as well, after Install is complete
   - Installs are usually very quick
-
-## Honorable Mentions
-  - Cycle through Panes is for a Most-Recently Used, known as an MRU, order of cycling through open document panes when hitting CTRL+TAB to switch panes. It's a preference I try to keep everywhere.
-- Editor Syntax Highlight isn't going to be useful for someone who doesn't use the &grave; `code` tildes / backticks.
-- #edit File path to URI in conjunction with #app/ShareX (clipper)
-- Without adding more notes from number 7, onward, I have a lot more footwork to cover reasons, if I want to, for which things I install #edit

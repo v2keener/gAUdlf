@@ -71,6 +71,13 @@ Plugins I don't currently have enabled. Some are not enabled simply because I ha
 - Status Bar Pomodoro Timer
 - Text Expander
 
+## Additional Notes
+
+- Cycle through Panes is for a Most-Recently Used, known as an MRU, order of cycling through open document panes when hitting CTRL+TAB to switch panes. It's a preference I try to keep everywhere.
+- Editor Syntax Highlight isn't going to be useful for someone who doesn't use the &grave; `code` tildes / backticks.
+- #edit File path to URI in conjunction with #app/ShareX (clipper)
+- Without adding more notes from number 7, onward, I have a lot more footwork to cover reasons, if I want to, for which things I install #edit
+
 [^1]: Checklist is really useful with the Reminder plugin.
 
 [^2]: This one is a special case. I don't have it installed, but until I learned the keyboard shortcuts I use for UX operations, day-to-day, I kept Key Promoter active. It's really a great plugin and especially great for keyboard and touch-type folks.
