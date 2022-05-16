@@ -1,37 +1,29 @@
 {
   "main": {
-    "id": "40c075d832ea7ae2",
+    "id": "4f8cb47f35ee8385",
     "type": "split",
     "children": [
       {
-        "id": "de80591eea7b4139",
+        "id": "582dab9a4774ca4c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< HEAD
-            "file": "daily/2022-05-16 Monday.md",
-=======
-            "file": "daily/2022-05-14 Saturday.md",
->>>>>>> 73d481d8f980d9f86b20a8467785e5cad4cba100
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6b3b0af0578616f7",
+    "id": "bb46a9540fdc68a8",
     "type": "split",
     "children": [
       {
-        "id": "360b8da6e5c5c742",
+        "id": "34704069e515bd8f",
         "type": "tabs",
         "children": [
           {
-            "id": "15e56f7d932d08e6",
+            "id": "1732f83458ad3092",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +31,12 @@
             }
           },
           {
-            "id": "4a0c3f8835489adc",
+            "id": "79d8c78818e997e4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "golden vault",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,24 +52,27 @@
     "width": 300
   },
   "right": {
-    "id": "fcc05c6b614a82aa",
+    "id": "6f8fdbd26cba791f",
     "type": "split",
     "children": [
       {
-        "id": "42232515d84ae2be",
+        "id": "d9c79d3aa9c93cce",
         "type": "tabs",
         "children": [
           {
-            "id": "f589be2b068a5a25",
+            "id": "f71ed9725fa8f112",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e40ab8be0e6eb6d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2022-05-16 Monday.md",
-=======
-                "file": "daily/2022-05-14 Saturday.md",
->>>>>>> 73d481d8f980d9f86b20a8467785e5cad4cba100
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,7 @@
             }
           },
           {
-            "id": "a3b7ddc14f05465a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "7d968fa4e62da6e9",
+            "id": "eaf1d43b1a609138",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -111,30 +98,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de80591eea7b4139",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "daily/2022-05-16 Monday.md",
-    "_templates/z header files explained.md",
-    "_templates/z header.md",
-    "_templates/z daily_header.md",
-    "_templates/default.md",
-    "_templates/daily.md",
-    "_templates/x example_prompt.md",
-    "extras/Obsidian Default Core Plugins.md",
-    "extras/AU Plugins.md",
-    "README.md"
-=======
-    "daily/2022-05-14 Saturday.md",
-    "extras/Obsidian Default Core Plugins.md",
-    "extras/AU Plugins.md",
-    "daily/2022 05 12 Thursday.md",
-    "sidecars/testing/test daily note template.md",
-    "study/Obsidian -Home.md",
-    "study/obsidian/Vim Mode.md",
-    "zettel/Overlay Project.md",
-    "study/obsidian/Keyboard Shortcuts - Home.md",
-    "study/obsidian/Daily Note.md"
->>>>>>> 73d481d8f980d9f86b20a8467785e5cad4cba100
-  ]
+  "active": "582dab9a4774ca4c",
+  "lastOpenFiles": []
 }
