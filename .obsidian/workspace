@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "extras/Obsidian Default Core Plugins.md",
+            "file": "daily/2022-05-16 Monday.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extras/Obsidian Default Core Plugins.md",
+                "file": "daily/2022-05-16 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "de80591eea7b4139",
   "lastOpenFiles": [
+    "daily/2022-05-16 Monday.md",
+    "_templates/z header files explained.md",
+    "_templates/z header.md",
+    "_templates/z daily_header.md",
+    "_templates/default.md",
+    "_templates/daily.md",
+    "_templates/x example_prompt.md",
     "extras/Obsidian Default Core Plugins.md",
     "extras/AU Plugins.md",
-    "README.md",
-    "daily/2022-05-13 Friday.md",
-    "study/Obsidian -Home.md",
-    "Keyboard Shortcuts - Home.md",
-    "Intro to Obsidian.md",
-    "study/Books - Home.md",
-    "study/books/The Expanse.md",
-    "sidecars/Using only one vault.md"
+    "README.md"
   ]
 }
