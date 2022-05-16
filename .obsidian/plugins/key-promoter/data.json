@@ -6,11 +6,19 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
+<<<<<<< HEAD
     "file-explorer:new-file": 9,
     "note-refactor-obsidian:app:extract-selection-first-line": 9,
     "note-refactor-obsidian:app:extract-selection-content-only": 9,
     "note-refactor-obsidian:app:extract-selection-autogenerate-name": 9,
     "templater-obsidian:create-new-note-from-template": 9,
+=======
+    "file-explorer:new-file": 10,
+    "note-refactor-obsidian:app:extract-selection-first-line": 10,
+    "note-refactor-obsidian:app:extract-selection-content-only": 10,
+    "note-refactor-obsidian:app:extract-selection-autogenerate-name": 10,
+    "templater-obsidian:create-new-note-from-template": 10,
+>>>>>>> 73d481d8f980d9f86b20a8467785e5cad4cba100
     "editor:rename-heading": 2,
     "workspace:copy-path": 2,
     "workspace:copy-url": 2,
@@ -31,7 +39,7 @@
     "app:go-back": 7,
     "app:go-forward": 4,
     "templater-obsidian:insert-templater": 2,
-    "editor:insert-link": 3,
+    "editor:insert-link": 4,
     "editor:toggle-checklist-status": 1,
     "command-palette:open": 4,
     "file-explorer:move-file": 6,
@@ -43,6 +51,7 @@
     "editor:toggle-bold": 1,
     "markdown:toggle-preview": 10,
     "editor:open-search": 1,
-    "global-search:open": 1
+    "global-search:open": 1,
+    "graph:open": 1
   }
 }

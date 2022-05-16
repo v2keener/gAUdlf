@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "daily/2022-05-16 Monday.md",
+=======
+            "file": "daily/2022-05-14 Saturday.md",
+>>>>>>> 73d481d8f980d9f86b20a8467785e5cad4cba100
             "mode": "source",
             "source": false
           }
@@ -69,7 +73,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "daily/2022-05-16 Monday.md",
+=======
+                "file": "daily/2022-05-14 Saturday.md",
+>>>>>>> 73d481d8f980d9f86b20a8467785e5cad4cba100
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +113,7 @@
   },
   "active": "de80591eea7b4139",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "daily/2022-05-16 Monday.md",
     "_templates/z header files explained.md",
     "_templates/z header.md",
@@ -115,5 +124,17 @@
     "extras/Obsidian Default Core Plugins.md",
     "extras/AU Plugins.md",
     "README.md"
+=======
+    "daily/2022-05-14 Saturday.md",
+    "extras/Obsidian Default Core Plugins.md",
+    "extras/AU Plugins.md",
+    "daily/2022 05 12 Thursday.md",
+    "sidecars/testing/test daily note template.md",
+    "study/Obsidian -Home.md",
+    "study/obsidian/Vim Mode.md",
+    "zettel/Overlay Project.md",
+    "study/obsidian/Keyboard Shortcuts - Home.md",
+    "study/obsidian/Daily Note.md"
+>>>>>>> 73d481d8f980d9f86b20a8467785e5cad4cba100
   ]
 }
