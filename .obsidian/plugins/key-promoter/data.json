@@ -6,5 +6,8 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {},
-  "keyboardStatistics": {}
+  "keyboardStatistics": {
+    "daily-notes": 1,
+    "editor:toggle-italics": 1
+  }
 }
