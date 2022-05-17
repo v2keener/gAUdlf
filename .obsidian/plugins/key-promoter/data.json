@@ -7,9 +7,11 @@
   "descriptionOfActions": false,
   "mouseStatistics": {},
   "keyboardStatistics": {
-    "daily-notes": 2,
+    "daily-notes": 3,
     "editor:toggle-italics": 1,
     "editor:open-search": 1,
-    "global-search:open": 1
+    "global-search:open": 1,
+    "app:go-back": 1,
+    "app:go-forward": 1
   }
 }
