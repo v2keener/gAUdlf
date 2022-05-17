@@ -8,6 +8,8 @@
   "mouseStatistics": {},
   "keyboardStatistics": {
     "daily-notes": 2,
-    "editor:toggle-italics": 1
+    "editor:toggle-italics": 1,
+    "editor:open-search": 1,
+    "global-search:open": 1
   }
 }
