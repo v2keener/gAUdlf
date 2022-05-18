@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brevity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,13 +48,22 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ebf9d8356e22d55b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6f8fdbd26cba791f",
@@ -107,6 +116,8 @@
   "active": "582dab9a4774ca4c",
   "lastOpenFiles": [
     "daily/2022-05-18 Wednesday.md",
+    "extras/Obsidian Default Core Plugins.md",
+    "extras/AU Plugins.md",
     "daily/2022-05-17 Tuesday.md",
     "daily/2022-05-16 Monday.md"
   ]

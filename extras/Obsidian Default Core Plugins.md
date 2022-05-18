@@ -24,8 +24,8 @@ In order of how they appear in Obsidian's Settings under the sidebar's "Core plu
 
 #separate-doc 
 
-- + Daily notes
-- + Starred
+- + Daily notes - these are my modus operandi and aren't necessary for every kind of note-taking or every type of vault.
+- + Starred - this allows for "Favorites", and you may favorite a search and/or a page. I use it to remember handy for #tech/Regular-Expression (regex) searches.
 
 # AU Community Plugins
 
