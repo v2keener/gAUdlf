@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-05-17 Tuesday.md",
+            "file": "daily/2022-05-18 Wednesday.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-05-17 Tuesday.md",
+                "file": "daily/2022-05-18 Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "582dab9a4774ca4c",
   "lastOpenFiles": [
+    "daily/2022-05-18 Wednesday.md",
     "daily/2022-05-17 Tuesday.md",
     "daily/2022-05-16 Monday.md"
   ]
