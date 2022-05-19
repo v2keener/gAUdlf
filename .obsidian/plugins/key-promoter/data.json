@@ -5,17 +5,25 @@
   "notificationTimeout": 5,
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
-  "mouseStatistics": {},
+  "mouseStatistics": {
+    "editor:rename-heading": 3,
+    "table-editor-obsidian:delete-column": 3,
+    "table-editor-obsidian:delete-row": 3,
+    "app:delete-file": 3,
+    "editor:delete-paragraph": 3
+  },
   "keyboardStatistics": {
-    "daily-notes": 9,
+    "daily-notes": 11,
     "editor:toggle-italics": 1,
     "editor:open-search": 1,
     "global-search:open": 1,
     "app:go-back": 2,
     "app:go-forward": 2,
-    "markdown:toggle-preview": 2,
-    "app:toggle-left-sidebar": 1,
+    "markdown:toggle-preview": 10,
+    "app:toggle-left-sidebar": 2,
     "app:open-settings": 1,
-    "switcher:open": 2
+    "switcher:open": 2,
+    "editor:insert-link": 1,
+    "command-palette:open": 1
   }
 }

@@ -57,13 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6f8fdbd26cba791f",
@@ -116,10 +114,14 @@
   "active": "582dab9a4774ca4c",
   "lastOpenFiles": [
     "daily/2022-05-19 Thursday.md",
-    "daily/2022-05-18 Wednesday.md",
-    "extras/Obsidian Default Core Plugins.md",
+    "daily/2022 05 12 Thursday.md",
+    "z 🎲 testing/test daily note template.md",
+    "study/zettel.md",
+    "study/README.md",
     "extras/AU Plugins.md",
-    "daily/2022-05-17 Tuesday.md",
-    "daily/2022-05-16 Monday.md"
+    "extras/README.md",
+    "study/obsidian/Obsidian Default Core Plugins.md",
+    "study/projects/Overlay Project.md",
+    "study/Obsidian -Home.md"
   ]
 }
