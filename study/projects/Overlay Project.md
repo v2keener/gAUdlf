@@ -1,8 +1,8 @@
 ---
 aliases: 
 tags: 
-YYYY-MM-DDTHH:mm:ssZ\\Z: 2022-05-16T10:17:41-04:00-04:00
-date modified: 2022-05-16T10:17:42-04:00-04:00
+date created: 2022-05-16T10:17:41-04:00Z
+date modified: 2022-05-16T10:17:42-04:00Z
 ---
 
 # Obsidian Overlay CSS Snippets

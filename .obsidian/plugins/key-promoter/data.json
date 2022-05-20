@@ -10,20 +10,23 @@
     "table-editor-obsidian:delete-column": 3,
     "table-editor-obsidian:delete-row": 3,
     "app:delete-file": 3,
-    "editor:delete-paragraph": 3
+    "editor:delete-paragraph": 3,
+    "daily-notes": 1
   },
   "keyboardStatistics": {
-    "daily-notes": 11,
+    "daily-notes": 12,
     "editor:toggle-italics": 1,
     "editor:open-search": 1,
-    "global-search:open": 1,
-    "app:go-back": 2,
-    "app:go-forward": 2,
+    "global-search:open": 3,
+    "app:go-back": 4,
+    "app:go-forward": 3,
     "markdown:toggle-preview": 10,
-    "app:toggle-left-sidebar": 2,
-    "app:open-settings": 1,
+    "app:toggle-left-sidebar": 3,
+    "app:open-settings": 4,
     "switcher:open": 2,
-    "editor:insert-link": 1,
-    "command-palette:open": 1
+    "editor:insert-link": 2,
+    "command-palette:open": 4,
+    "file-explorer:move-file": 2,
+    "editor:toggle-highlight": 1
   }
 }
