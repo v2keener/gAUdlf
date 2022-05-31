@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-05-20 Friday.md",
+            "file": "daily/2022-05-31 Tuesday.md",
             "mode": "source",
             "source": false
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-05-20 Friday.md",
+                "file": "daily/2022-05-31 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "582dab9a4774ca4c",
   "lastOpenFiles": [
+    "daily/2022-05-31 Tuesday.md",
     "daily/2022-05-20 Friday.md",
     "study/projects/Overlay Project.md",
     "study/Accessibility - Home.md",
@@ -123,7 +124,6 @@
     "daily/2022 05 12 Thursday.md",
     "z 🎲 testing/test daily note template.md",
     "study/zettel.md",
-    "study/README.md",
-    "extras/AU Plugins.md"
+    "study/README.md"
   ]
 }
