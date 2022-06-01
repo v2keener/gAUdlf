@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-05-31 Tuesday.md",
+            "file": "extras/Ticket Theory.md",
             "mode": "source",
             "source": false
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-05-31 Tuesday.md",
+                "file": "extras/Ticket Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "582dab9a4774ca4c",
   "lastOpenFiles": [
+    "extras/Ticket Theory.md",
+    "daily/2022-06-01 Wednesday.md",
+    "extras/Spoon Theory.md",
     "daily/2022-05-31 Tuesday.md",
     "daily/2022-05-20 Friday.md",
     "study/projects/Overlay Project.md",
     "study/Accessibility - Home.md",
     "study/obsidian/Accessibility.md",
     "daily/2022-05-19 Thursday.md",
-    "daily/2022 05 12 Thursday.md",
-    "z 🎲 testing/test daily note template.md",
-    "study/zettel.md",
-    "study/README.md"
+    "daily/2022 05 12 Thursday.md"
   ]
 }

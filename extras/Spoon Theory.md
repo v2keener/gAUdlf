@@ -1,0 +1,3 @@
+There's probably science to this by now. There is a psychological term for the mental fatigue one feels additional to what someone unaffected by a health condition might feel. ( #2ba-separate-doc(?))
+
+Spoon theory is the idea that each of us has so many "spoons" of "things one can do" during a day. For people with certain health conditions, they have less "spoons", so as with serving food and the inconvenience and taxing nature of running out of spoons, so it is with health conditions and being unable to do all the things typical and/or unaffected people might do.
