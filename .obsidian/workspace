@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "extras/Ticket Theory.md",
+            "file": "daily/2022-06-03 Friday.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "present",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extras/Ticket Theory.md",
+                "file": "daily/2022-06-03 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -115,6 +116,8 @@
   },
   "active": "582dab9a4774ca4c",
   "lastOpenFiles": [
+    "daily/2022-06-03 Friday.md",
+    "daily/2022 05 06 Friday.md",
     "extras/Ticket Theory.md",
     "daily/2022-06-01 Wednesday.md",
     "extras/Spoon Theory.md",
@@ -122,8 +125,6 @@
     "daily/2022-05-20 Friday.md",
     "study/projects/Overlay Project.md",
     "study/Accessibility - Home.md",
-    "study/obsidian/Accessibility.md",
-    "daily/2022-05-19 Thursday.md",
-    "daily/2022 05 12 Thursday.md"
+    "study/obsidian/Accessibility.md"
   ]
 }
