@@ -14,8 +14,8 @@
     "daily-notes": 1
   },
   "keyboardStatistics": {
-    "daily-notes": 16,
-    "editor:toggle-italics": 1,
+    "daily-notes": 17,
+    "editor:toggle-italics": 2,
     "editor:open-search": 1,
     "global-search:open": 4,
     "app:go-back": 5,
@@ -25,9 +25,11 @@
     "app:open-settings": 4,
     "switcher:open": 2,
     "editor:insert-link": 2,
-    "command-palette:open": 4,
+    "command-palette:open": 7,
     "file-explorer:move-file": 2,
     "editor:toggle-highlight": 1,
-    "app:toggle-right-sidebar": 2
+    "app:toggle-right-sidebar": 2,
+    "editor:toggle-bold": 1,
+    "editor:delete-paragraph": 3
   }
 }
