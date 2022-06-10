@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-06-09 Thursday.md",
+            "file": "daily/2022-06-10 Friday.md",
             "mode": "source",
             "source": false
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-06-09 Thursday.md",
+                "file": "daily/2022-06-10 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "582dab9a4774ca4c",
   "lastOpenFiles": [
+    "daily/2022-06-10 Friday.md",
     "daily/2022-06-09 Thursday.md",
     "daily/2022-06-08 Wednesday.md",
     "daily/2022-06-07 Tuesday.md",
@@ -124,7 +125,6 @@
     "daily/2022 05 06 Friday.md",
     "extras/Ticket Theory.md",
     "daily/2022-06-01 Wednesday.md",
-    "extras/Spoon Theory.md",
-    "daily/2022-05-31 Tuesday.md"
+    "extras/Spoon Theory.md"
   ]
 }
