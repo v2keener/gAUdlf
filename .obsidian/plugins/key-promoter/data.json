@@ -11,7 +11,12 @@
     "table-editor-obsidian:delete-row": 3,
     "app:delete-file": 3,
     "editor:delete-paragraph": 3,
-    "daily-notes": 1
+    "daily-notes": 1,
+    "templater-obsidian:insert-templater": 1,
+    "templater-obsidian:replace-in-file-templater": 1,
+    "templater-obsidian:jump-to-next-cursor-location": 1,
+    "templater-obsidian:create-new-note-from-template": 3,
+    "file-explorer:new-file": 1
   },
   "keyboardStatistics": {
     "daily-notes": 17,

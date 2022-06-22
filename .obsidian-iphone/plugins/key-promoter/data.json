@@ -1,0 +1,35 @@
+{
+  "showUnassigned": true,
+  "showAssigned": true,
+  "threshold": 0,
+  "notificationTimeout": 5,
+  "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
+  "descriptionOfActions": false,
+  "mouseStatistics": {
+    "editor:rename-heading": 3,
+    "table-editor-obsidian:delete-column": 3,
+    "table-editor-obsidian:delete-row": 3,
+    "app:delete-file": 3,
+    "editor:delete-paragraph": 3,
+    "daily-notes": 1
+  },
+  "keyboardStatistics": {
+    "daily-notes": 17,
+    "editor:toggle-italics": 2,
+    "editor:open-search": 1,
+    "global-search:open": 4,
+    "app:go-back": 5,
+    "app:go-forward": 3,
+    "markdown:toggle-preview": 16,
+    "app:toggle-left-sidebar": 4,
+    "app:open-settings": 4,
+    "switcher:open": 2,
+    "editor:insert-link": 2,
+    "command-palette:open": 7,
+    "file-explorer:move-file": 2,
+    "editor:toggle-highlight": 1,
+    "app:toggle-right-sidebar": 2,
+    "editor:toggle-bold": 1,
+    "editor:delete-paragraph": 3
+  }
+}

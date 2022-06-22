@@ -19,100 +19,82 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bb46a9540fdc68a8",
-    "type": "split",
+    "id": "70cf1189b37baeaa",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "34704069e515bd8f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1732f83458ad3092",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "79d8c78818e997e4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "present",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "ebf9d8356e22d55b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "1c8118efe78fed59",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a045b06a34517d63",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "41283cfff63fade9",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "right": {
-    "id": "6f8fdbd26cba791f",
-    "type": "split",
+    "id": "2cb37f2446316878",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d9c79d3aa9c93cce",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f71ed9725fa8f112",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e40ab8be0e6eb6d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "daily/2022-06-21 Tuesday.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "eaf1d43b1a609138",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
+        "id": "c46d63f9eda5acef",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "d7cb48c09f7b43c0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "daily/2022-06-21 Tuesday.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 2
+        }
+      },
+      {
+        "id": "8e1537f3dae91b40",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "582dab9a4774ca4c",
   "lastOpenFiles": [

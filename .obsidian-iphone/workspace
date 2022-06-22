@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "4f8cb47f35ee8385",
+    "type": "split",
+    "children": [
+      {
+        "id": "582dab9a4774ca4c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "daily/2022-06-21 Tuesday.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb46a9540fdc68a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "34704069e515bd8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1732f83458ad3092",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "79d8c78818e997e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "present",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebf9d8356e22d55b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6f8fdbd26cba791f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9c79d3aa9c93cce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71ed9725fa8f112",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e40ab8be0e6eb6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2022-06-21 Tuesday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eaf1d43b1a609138",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "582dab9a4774ca4c",
+  "lastOpenFiles": [
+    "daily/2022-06-21 Tuesday.md",
+    "daily/2022-06-15 Wednesday.md",
+    "daily/2022-06-13 Monday.md",
+    "daily/2022-06-10 Friday.md",
+    "daily/2022-06-09 Thursday.md",
+    "daily/2022-06-08 Wednesday.md",
+    "daily/2022-06-07 Tuesday.md",
+    "daily/2022-06-06 Monday.md",
+    "daily/2022-06-03 Friday.md",
+    "daily/2022 05 06 Friday.md"
+  ]
+}
