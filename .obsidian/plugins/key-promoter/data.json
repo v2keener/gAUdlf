@@ -15,8 +15,11 @@
     "templater-obsidian:insert-templater": 1,
     "templater-obsidian:replace-in-file-templater": 1,
     "templater-obsidian:jump-to-next-cursor-location": 1,
-    "templater-obsidian:create-new-note-from-template": 3,
-    "file-explorer:new-file": 1
+    "templater-obsidian:create-new-note-from-template": 4,
+    "file-explorer:new-file": 2,
+    "note-refactor-obsidian:app:extract-selection-first-line": 1,
+    "note-refactor-obsidian:app:extract-selection-content-only": 1,
+    "note-refactor-obsidian:app:extract-selection-autogenerate-name": 1
   },
   "keyboardStatistics": {
     "daily-notes": 17,

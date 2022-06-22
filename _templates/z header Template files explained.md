@@ -1,5 +1,7 @@
 # Z Header Files Explained
 
+(Part of [[_templates/README|README for these templates]])
+
 Here's what [[z header]] looks like:
 
 ```markdown

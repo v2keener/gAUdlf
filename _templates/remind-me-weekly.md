@@ -1,0 +1,1 @@
+<% tp.file.include("[[x checkbox yn prompt]]") %><% tp.file.include("[[x reminder prompt]]") %><% " 🔁 " %><% "every week ⏰ " %><% tp.date.now("YYYY-MM-DD", 7) %><% " 📅 " %><% tp.date.now("YYYY-MM-DD", 14) %>

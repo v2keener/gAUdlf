@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-06-22 Wednesday.md",
+            "file": "_templates/README.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-06-22 Wednesday.md",
+                "file": "_templates/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,15 +113,15 @@
   },
   "active": "582dab9a4774ca4c",
   "lastOpenFiles": [
+    "_templates/README.md",
+    "_templates/z header Template files explained.md",
+    "_templates/Z_util_heading.md",
+    "_templates/Z_util_heading_prompt.md",
+    "_templates/Z_util_reminder_day_of.md",
+    "_templates/z header.md",
+    "_templates/z daily_header.md",
     "daily/2022-06-22 Wednesday.md",
-    "extras/Presentation Project Tasks.md",
-    "daily/2022-06-21 Tuesday.md",
-    "daily/2022-06-15 Wednesday.md",
-    "daily/2022-06-13 Monday.md",
-    "daily/2022-06-10 Friday.md",
-    "daily/2022-06-09 Thursday.md",
-    "daily/2022-06-08 Wednesday.md",
-    "daily/2022-06-07 Tuesday.md",
-    "daily/2022-06-06 Monday.md"
+    "_templates/x frontmatter aliases prompt.md",
+    "_templates/x an example prompt.md"
   ]
 }

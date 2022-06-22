@@ -1,1 +1,0 @@
-<% tp.file.include("[[ex checkbox yn prompt]]") %><% tp.file.include("[[ex reminder prompt]]") %><% tp.file.include("[[Z_util_reminder_day_of]]") %>
