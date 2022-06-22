@@ -1,0 +1,1 @@
+<% $foo = tp.system.prompt("Use a checkbox (enter for 'yes', remove default for 'no')?", "- [ ] ") %>

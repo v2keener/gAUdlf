@@ -1,0 +1,1 @@
+ ⏰ <% tp.date.now("YYYY-MM-DD HH:mm", "P+0MT+1H") %> 📅 <% tp.date.now("YYYY-MM-DD", 1) %>

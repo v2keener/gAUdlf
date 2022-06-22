@@ -1,0 +1,1 @@
+<% $foo = tp.system.prompt("Reminder text (hit ENTER if you already put text)", "") %>

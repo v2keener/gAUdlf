@@ -1,23 +1,36 @@
 {
-  "scanned": false,
-  "reminders": {},
+  "scanned": true,
+  "reminders": {
+    "extras/Presentation Project Tasks.md": [
+      {
+        "title": "First item to do (example)",
+        "time": "2022-06-22 17:29",
+        "rowNumber": 10
+      },
+      {
+        "title": "Add three Favorites to demonstrate for the left action pane",
+        "time": "2022-06-22 17:31",
+        "rowNumber": 11
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
     "useSystemNotification": false,
     "autoCompleteTrigger": "(@",
-    "primaryReminderFormat": "ReminderPluginReminderFormat",
-    "enableReminderPluginReminderFormat": true,
+    "primaryReminderFormat": "TasksPluginReminderFormat",
+    "enableReminderPluginReminderFormat": false,
     "dateFormat": "YYYY-MM-DD",
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
     "strictDateFormat": false,
     "linkDatesToDailyNotes": false,
-    "enableTasksPluginReminderFormat": false,
-    "useCustomEmojiForTasksPlugin": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
     "removeTagsForTasksPlugin": false,
     "enableKanbanPluginReminderFormat": false,
-    "editDetectionSec": 10,
-    "reminderCheckIntervalSec": 5
+    "editDetectionSec": 300,
+    "reminderCheckIntervalSec": 300
   }
 }

@@ -1,0 +1,1 @@
+<% tp.file.include("[[ex checkbox yn prompt]]") %><% tp.file.include("[[ex reminder prompt]]") %> ⏰ <% tp.date.now("YYYY-MM-DD 08:31", 1) %> 📅 <% tp.date.now("YYYY-MM-DD", 1) %>
