@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_templates/README.md",
+            "file": "daily/2022-06-23 Thursday.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e43594035e8253fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "daily/2022-06-24 Friday.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "/\\- \\[ ].+⏰/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4b62cc288691785d",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/README.md",
+                "file": "daily/2022-06-24 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +122,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "582dab9a4774ca4c",
+  "active": "e43594035e8253fc",
   "lastOpenFiles": [
-    "_templates/README.md",
-    "_templates/z header Template files explained.md",
-    "_templates/Z_util_heading.md",
-    "_templates/Z_util_heading_prompt.md",
-    "_templates/Z_util_reminder_day_of.md",
-    "_templates/z header.md",
-    "_templates/z daily_header.md",
+    "daily/2022-06-24 Friday.md",
+    "study/Presentation capturing.md",
+    "daily/2022-06-23 Thursday.md",
     "daily/2022-06-22 Wednesday.md",
-    "_templates/x frontmatter aliases prompt.md",
-    "_templates/x an example prompt.md"
+    "daily/2022-06-21 Tuesday.md",
+    "daily/2022-06-15 Wednesday.md",
+    "daily/2022-06-13 Monday.md",
+    "daily/2022-06-10 Friday.md",
+    "daily/2022-06-09 Thursday.md",
+    "daily/2022-06-08 Wednesday.md"
   ]
 }

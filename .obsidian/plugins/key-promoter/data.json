@@ -6,7 +6,7 @@
   "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
   "descriptionOfActions": false,
   "mouseStatistics": {
-    "editor:rename-heading": 3,
+    "editor:rename-heading": 4,
     "table-editor-obsidian:delete-column": 3,
     "table-editor-obsidian:delete-row": 3,
     "app:delete-file": 3,
@@ -15,11 +15,15 @@
     "templater-obsidian:insert-templater": 1,
     "templater-obsidian:replace-in-file-templater": 1,
     "templater-obsidian:jump-to-next-cursor-location": 1,
-    "templater-obsidian:create-new-note-from-template": 4,
-    "file-explorer:new-file": 2,
-    "note-refactor-obsidian:app:extract-selection-first-line": 1,
-    "note-refactor-obsidian:app:extract-selection-content-only": 1,
-    "note-refactor-obsidian:app:extract-selection-autogenerate-name": 1
+    "templater-obsidian:create-new-note-from-template": 5,
+    "file-explorer:new-file": 3,
+    "note-refactor-obsidian:app:extract-selection-first-line": 2,
+    "note-refactor-obsidian:app:extract-selection-content-only": 2,
+    "note-refactor-obsidian:app:extract-selection-autogenerate-name": 2,
+    "open-with-default-app:show": 1,
+    "workspace:undo-close-pane": 1,
+    "workspace:close": 1,
+    "workspace:close-others": 1
   },
   "keyboardStatistics": {
     "daily-notes": 17,
