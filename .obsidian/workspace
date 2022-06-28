@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-06-24 Friday.md",
+            "file": "daily/2022-06-27 Monday.md",
             "mode": "source",
             "source": false
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-06-24 Friday.md",
+                "file": "daily/2022-06-27 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +127,7 @@
   },
   "active": "e43594035e8253fc",
   "lastOpenFiles": [
+    "daily/2022-06-27 Monday.md",
     "daily/2022-06-24 Friday.md",
     "study/Presentation capturing.md",
     "daily/2022-06-23 Thursday.md",
@@ -135,7 +136,6 @@
     "daily/2022-06-15 Wednesday.md",
     "daily/2022-06-13 Monday.md",
     "daily/2022-06-10 Friday.md",
-    "daily/2022-06-09 Thursday.md",
-    "daily/2022-06-08 Wednesday.md"
+    "daily/2022-06-09 Thursday.md"
   ]
 }
