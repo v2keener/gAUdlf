@@ -41,4 +41,4 @@ On self-organization and time management:
 
 ![[2022-06-21 Tuesday#How the presentation should work]]
 
-asdf
+

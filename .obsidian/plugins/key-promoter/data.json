@@ -21,9 +21,9 @@
     "note-refactor-obsidian:app:extract-selection-content-only": 2,
     "note-refactor-obsidian:app:extract-selection-autogenerate-name": 2,
     "open-with-default-app:show": 1,
-    "workspace:undo-close-pane": 1,
-    "workspace:close": 1,
-    "workspace:close-others": 1
+    "workspace:undo-close-pane": 2,
+    "workspace:close": 2,
+    "workspace:close-others": 2
   },
   "keyboardStatistics": {
     "daily-notes": 17,

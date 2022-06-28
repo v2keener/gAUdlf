@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "582dab9a4774ca4c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily/2022-06-23 Thursday.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "e43594035e8253fc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-06-27 Monday.md",
+            "file": "daily/2022-06-09 Thursday.md",
             "mode": "source",
             "source": false
           }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-06-27 Monday.md",
+                "file": "daily/2022-06-09 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -127,15 +115,15 @@
   },
   "active": "e43594035e8253fc",
   "lastOpenFiles": [
+    "daily/2022-06-09 Thursday.md",
+    "study/Presentation capturing.md",
+    "daily/2022-06-06 Monday.md",
+    "daily/2022-06-28 Tuesday.md",
+    "extras/Presentation Project Tasks.md",
     "daily/2022-06-27 Monday.md",
     "daily/2022-06-24 Friday.md",
-    "study/Presentation capturing.md",
     "daily/2022-06-23 Thursday.md",
     "daily/2022-06-22 Wednesday.md",
-    "daily/2022-06-21 Tuesday.md",
-    "daily/2022-06-15 Wednesday.md",
-    "daily/2022-06-13 Monday.md",
-    "daily/2022-06-10 Friday.md",
-    "daily/2022-06-09 Thursday.md"
+    "daily/2022-06-21 Tuesday.md"
   ]
 }
