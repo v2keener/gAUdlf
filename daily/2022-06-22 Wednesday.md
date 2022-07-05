@@ -7,6 +7,9 @@ aliases: daily, daily note, today, yesterday, 2022-06-22
 
 # 2022-06-22 Wed
 
+[[2022-06-21 Tuesday|2022-06-21]]
+[[2022-06-23 Thursday|2022-06-23]]
+
 Yesterday, I added an `.obsidian-iphone` folder, which I checked in and pushed to github.com this morning. I did this after enabling the ability to edit this project on my iPhone by using Work Copy for git functionality and to link vault folders into the Obsidian folder on my phone. Instead of doing that, I would recommend using Obsidian.md's Sync. 
 
 Much of what I do involves doing a thing to see if I can. Typically, I will lay down my material and *then* organize.

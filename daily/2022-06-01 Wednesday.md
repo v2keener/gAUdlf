@@ -7,6 +7,9 @@ aliases: daily, daily note, today, yesterday, 2022-06-01
 
 # 2022-06-01 Wed
 
+[[2022-05-31 Tuesday|2022-05-31]]
+[[2022-06-03 Friday|2022-06-03]]
+
 I'm thinking about note-taking and reducing distractions. Generally, because I suffer from #personal/health/ADHD, I do tend to get easily distracted. There are some rules of thumb I follow to make my life a bit smoother, to remove distractions, and to keep things as simple as I can think to make them. 
 
 First, and despite anything I or anyone else says, you should probably try to follow the science. That doesn't mean that every single, solitary study should grab your attention with dramatic, newsworthy&mdash;or allegedly so&mdash;findings. What it does mean is that one should practice evidence-based medicine, seeking medical care where needed. That's my way of saying that everyone is going to be different, especially when it comes to reducing distractions to account for or to help cope with issues that arise from neurodivergence (such as the inability to focus under the influence of immediate distractions).

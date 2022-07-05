@@ -7,6 +7,9 @@ aliases: daily, daily note, today, yesterday, 2022-06-15
 
 # 2022-06-15 Wed
 
+[[2022-06-13 Monday|2022-06-13]]
+[[2022-06-21 Tuesday|2022-06-21]]
+
 4 weeks to presentation. In two weeks, I should be in rehearsal mode. My intent is to have 30 minutes of prepared content, 15 minutes of extra (in case there's no Q&A after the first bit of content). I'd also like to make sure I can have it maybe in 5-minute chuncks. In the end, it's all going to be about how my brain works. I'm way better at recognition than recall and I don't do well at rote memorization, typically, so what I'll have will be an outline, I'll record myself in audio first, then in video (since it'll be in-person, I'll want to see myself). For the demo side of the presentation, I'll begin rehearsing that after my first or second audio-only practice. My expectation is that this will be educational, I'll have citations and references in a handout at the end of the session. For the beginning, I'll probably get folks to answer a couple of questions privately and then turn them in or something like that. There are people I work with who know far more about how to begin a session at a conference, so I'll defer to what I know from all the webinars and in-person conferences I've been at. 
 
 Especially because I have ADHD, it'll be helpful to me to engage the audience off-topic, for fun first (e.g. "Good morning!" and then the presenter tries to get adult professionals in a conference to say "good morning" back - I'm not doing that one, btw). 

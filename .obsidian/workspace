@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e43594035e8253fc",
+        "id": "513f5453137011a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-06-09 Thursday.md",
+            "file": "daily/2022-07-05 Tuesday.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 517.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-06-09 Thursday.md",
+                "file": "daily/2022-07-05 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +113,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e43594035e8253fc",
+  "active": "513f5453137011a2",
   "lastOpenFiles": [
-    "daily/2022-06-09 Thursday.md",
-    "study/Presentation capturing.md",
-    "daily/2022-06-06 Monday.md",
-    "daily/2022-06-28 Tuesday.md",
-    "extras/Presentation Project Tasks.md",
-    "daily/2022-06-27 Monday.md",
-    "daily/2022-06-24 Friday.md",
-    "daily/2022-06-23 Thursday.md",
-    "daily/2022-06-22 Wednesday.md",
-    "daily/2022-06-21 Tuesday.md"
+    "daily/2022-07-05 Tuesday.md",
+    "daily/2022-06-30 Thursday.md",
+    "study/obsidian/Daily Note.md",
+    "daily/2022-06-29 Wednesday.md",
+    "daily/2022 05 12 Thursday.md",
+    "daily/2022 05 11 Wednesday.md",
+    "daily/2022 05 09 Monday.md",
+    "daily/2022 05 07 Saturday.md",
+    "daily/2022 05 06 Friday.md",
+    "daily/2022-05-13 Friday.md"
   ]
 }

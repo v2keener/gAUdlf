@@ -7,6 +7,9 @@ aliases: daily, daily note, today, yesterday, 2022-05-18
 
 # 2022-05-18 Wed
 
+[[2022-05-17 Tuesday|2022-05-17]]
+[[2022-05-19 Thursday|2022-05-19]]
+
 For these notes, I'm taking them in my personal vault first. Also, this project/vault is in my second virtual desktop (Windows 10).
 
 A cool thing about how this vault/project is presently set up is that I do an update, leave it for Obsidian Git to put my update in source control. The disadvantage to that is the lack of comments with #app/Git, but I don't mind that for document editing, anyway. 

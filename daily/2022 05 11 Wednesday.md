@@ -1,5 +1,8 @@
 # 2022 05 11 Wednesday
 
+[[2022 05 09 Monday|Prev]]
+[[2022 05 12 Thursday|Next]]
+
 I didn't forget about this project yesterday, but I was mindful of it, I think.
 
 Things I might wish to do with this project today: 
