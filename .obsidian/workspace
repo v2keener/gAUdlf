@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-07-05 Tuesday.md",
+            "file": "daily/2022-07-07 Thursday.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-07-05 Tuesday.md",
+                "file": "daily/2022-07-07 Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "513f5453137011a2",
   "lastOpenFiles": [
+    "daily/2022-07-07 Thursday.md",
+    "daily/2022-07-06 Wednesday.md",
+    "extras/Presentation Project Tasks.md",
     "daily/2022-07-05 Tuesday.md",
     "daily/2022-06-30 Thursday.md",
     "study/obsidian/Daily Note.md",
     "daily/2022-06-29 Wednesday.md",
     "daily/2022 05 12 Thursday.md",
     "daily/2022 05 11 Wednesday.md",
-    "daily/2022 05 09 Monday.md",
-    "daily/2022 05 07 Saturday.md",
-    "daily/2022 05 06 Friday.md",
-    "daily/2022-05-13 Friday.md"
+    "daily/2022 05 09 Monday.md"
   ]
 }

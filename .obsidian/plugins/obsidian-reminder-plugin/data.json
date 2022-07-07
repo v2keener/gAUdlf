@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "extras/Presentation Project Tasks.md": [
-      {
-        "title": "Bring over latest template work from personal vault",
-        "time": "2022-07-05 13:39",
-        "rowNumber": 13
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
