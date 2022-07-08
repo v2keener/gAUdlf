@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-07-07 Thursday.md",
+            "file": "study/Obsidian -Home.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 517.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "4b62cc288691785d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-07-07 Thursday.md",
+                "file": "study/Obsidian -Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +114,15 @@
   },
   "active": "513f5453137011a2",
   "lastOpenFiles": [
-    "daily/2022-07-07 Thursday.md",
-    "daily/2022-07-06 Wednesday.md",
+    "study/Obsidian -Home.md",
+    "study/Presentation capturing.md",
+    "study/Music - Home.md",
+    "study/Accessibility - Home.md",
+    "study/Books - Home.md",
+    "study/projects/Overlay Project.md",
+    "Intro to Obsidian.md",
     "extras/Presentation Project Tasks.md",
-    "daily/2022-07-05 Tuesday.md",
-    "daily/2022-06-30 Thursday.md",
-    "study/obsidian/Daily Note.md",
-    "daily/2022-06-29 Wednesday.md",
-    "daily/2022 05 12 Thursday.md",
-    "daily/2022 05 11 Wednesday.md",
-    "daily/2022 05 09 Monday.md"
+    "daily/2022-07-08 Friday.md",
+    "daily/2022-07-07 Thursday.md"
   ]
 }
