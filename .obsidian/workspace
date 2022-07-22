@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "study/Obsidian -Home.md",
+            "file": "daily/2022-07-22 Friday.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/\\- \\[ ].+⏰/",
+                "query": "tag:#app/Obsidian/theme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/Obsidian -Home.md",
+                "file": "daily/2022-07-22 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "513f5453137011a2",
   "lastOpenFiles": [
-    "study/Obsidian -Home.md",
-    "study/Presentation capturing.md",
-    "study/Music - Home.md",
-    "study/Accessibility - Home.md",
-    "study/Books - Home.md",
-    "study/projects/Overlay Project.md",
-    "Intro to Obsidian.md",
-    "extras/Presentation Project Tasks.md",
+    "For fun.md",
+    "daily/2022-06-03 Friday.md",
+    "_templates/daily.md",
+    "daily/2022-07-18 Monday.md",
     "daily/2022-07-08 Friday.md",
-    "daily/2022-07-07 Thursday.md"
+    "daily/2022-07-06 Wednesday.md",
+    "daily/2022-06-06 Monday.md",
+    "daily/2022-05-13 Friday.md",
+    "daily/2022-05-18 Wednesday.md",
+    "study/obsidian/Accessibility.md"
   ]
 }

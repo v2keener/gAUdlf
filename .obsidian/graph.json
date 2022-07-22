@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:daily",
+  "search": "2022-07",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -15,8 +15,8 @@
   "collapse-forces": false,
   "centerStrength": 0.544083526682135,
   "repelStrength": 11.0672853828306,
-  "linkStrength": 0.831786542923434,
-  "linkDistance": 164,
+  "linkStrength": 1,
+  "linkDistance": 187,
   "scale": 0.5272886987937245,
   "close": false
 }
